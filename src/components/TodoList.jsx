@@ -11,7 +11,7 @@ const TodoList = ({ todos, setTodos }) => {
                     setTodos={setTodos}
                     todos={todos}
                 />
-            ))}
+            )) || "Loading data..."}
         </div>
     );
 };

@@ -45,7 +45,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 370px;
+    width: 350px;
 }
 
 .form {
@@ -108,7 +108,7 @@ body {
 
 .wrapper h4 {
     margin-left: 10px;
-    width: 280px;
+    width: 260px;
 }
 
 .todos {
